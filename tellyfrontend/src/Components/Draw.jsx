@@ -48,7 +48,7 @@ export default function Draw() {
 
 	return (
 		<div style={{ position: 'fixed', inset: 0 }} className='tldraw__editor'>
-			<Tldraw components={componentsCanvas} />
+			<Tldraw components={componentsCanvas} persistenceKey='example1'/>
 		</div>
 	)
 }
