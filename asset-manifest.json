@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/telly/static/css/main.17e18be5.css",
-    "main.js": "/telly/static/js/main.e7418834.js",
-    "static/js/453.92fda48e.chunk.js": "/telly/static/js/453.92fda48e.chunk.js",
-    "index.html": "/telly/index.html",
-    "main.17e18be5.css.map": "/telly/static/css/main.17e18be5.css.map",
-    "main.e7418834.js.map": "/telly/static/js/main.e7418834.js.map",
-    "453.92fda48e.chunk.js.map": "/telly/static/js/453.92fda48e.chunk.js.map"
+    "main.css": "/Telly/tree/main/tellyfrontend/static/css/main.17e18be5.css",
+    "main.js": "/Telly/tree/main/tellyfrontend/static/js/main.6f8badc7.js",
+    "static/js/453.92fda48e.chunk.js": "/Telly/tree/main/tellyfrontend/static/js/453.92fda48e.chunk.js",
+    "index.html": "/Telly/tree/main/tellyfrontend/index.html",
+    "main.17e18be5.css.map": "/Telly/tree/main/tellyfrontend/static/css/main.17e18be5.css.map",
+    "main.6f8badc7.js.map": "/Telly/tree/main/tellyfrontend/static/js/main.6f8badc7.js.map",
+    "453.92fda48e.chunk.js.map": "/Telly/tree/main/tellyfrontend/static/js/453.92fda48e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17e18be5.css",
-    "static/js/main.e7418834.js"
+    "static/js/main.6f8badc7.js"
   ]
 }
