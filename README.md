@@ -50,6 +50,35 @@ To get started, you'll need a copy of the Telly project files on your local mach
 
 At this point, you now have a local copy of the project files, and you’re inside the project directory, ready to install dependencies.
 
+
+## Demo
+
+You can access a live demo of Telly here: [Play Vi](Assets/telly-demo-1.mp4)deo 
+
+## Screenshots
+
+Here are some screenshots of Telly in action:
+
+**1.** **Home Screen** ** **
+
+**   
+
+**2.** **Interactive Whiteboard** ** **
+
+**   
+
+**3.** **Math Solver** ** **
+
+**   
+
+> **Note**: Replace `path/to/screenshot.png` with the actual paths to your screenshots within the repository or a URL if hosted externally.
+
+## Video
+
+Watch a quick walkthrough of the Telly app to see its main features and capabilities:
+
+**[**![Watch the video**](**path/to/thumbnail.png**)](**https://www.youtube.com/watch?v=your-video-id**)**
+
 ### 2. Install Dependencies
 
 With the repository cloned, the next step is to install the required dependencies. This can be done using NPM or Yarn.
