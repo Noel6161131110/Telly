@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/telly/static/css/main.17e18be5.css",
+    "main.js": "/telly/static/js/main.e7418834.js",
+    "static/js/453.92fda48e.chunk.js": "/telly/static/js/453.92fda48e.chunk.js",
+    "index.html": "/telly/index.html",
+    "main.17e18be5.css.map": "/telly/static/css/main.17e18be5.css.map",
+    "main.e7418834.js.map": "/telly/static/js/main.e7418834.js.map",
+    "453.92fda48e.chunk.js.map": "/telly/static/js/453.92fda48e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17e18be5.css",
+    "static/js/main.e7418834.js"
+  ]
+}
