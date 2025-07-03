@@ -24,8 +24,9 @@ Follow these instructions to set up and run the application on your local machin
 
 **-** NPM or Yarn
 
-**-** An Auth0 account (for authentication setup)
+**-**  An Auth0 account (for authentication setup)
 
+**-** Tldraw
 
 ## Installation
 
@@ -52,8 +53,6 @@ At this point, you now have a local copy of the project files, and you’re insi
 
 
 ## Demo
-
-You can access a live demo of Telly here: [Play Vi](Assets/telly-demo-1.mp4)deo 
 
 ## Screenshots
 
