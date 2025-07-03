@@ -2,6 +2,20 @@
 
 Telly is an interactive whiteboard and note-taking app designed to enhance learning, boost productivity, and foster collaboration. This app leverages AI to solve math expressions and provide detailed explanations, making it an ideal tool for students, teachers, and professionals. Auth0 is used to manage secure user authentication.
 
+## See Telly in Action
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Noel6161131110/Telly/main/Assets/telly-demo-1.gif" alt="Telly Demo" width="80%" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Noel6161131110/Telly/main/Assets/telly-demo-3.png" alt="Telly Screenshot" width="80%" />
+</p>
+
+<br />
+
 ## Features
 
 **-** **Interactive Whiteboard**: Draw, annotate, and visually organize ideas in real time.
